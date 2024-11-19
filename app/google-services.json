@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753415984110",
+    "project_id": "formulario-1fea2",
+    "storage_bucket": "formulario-1fea2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753415984110:android:c11bd1e1679190ac2834ff",
+        "android_client_info": {
+          "package_name": "com.example.formulariodam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGUmjaqwjPVB0blYfkQjdIZIhiQQ1LoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
